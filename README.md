@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Annmyname
-- 👀 I’m interested in me
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Annmyname  
 
-<!---
-Annmyname/Annmyname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about Data Analytics, Machine Learning, and Business Intelligence.  
+Currently learning and building projects with Python, Power BI, and SQL.  
+I enjoy turning data into actionable insights and creating impactful dashboards.  
+Open to collaborating on data-driven projects, research, or innovative ideas.  
+
+📫 Reach me at: trinhnguyen256.work@gmail.con | [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-2b0291293/)
