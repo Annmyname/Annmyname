@@ -1,4 +1,4 @@
-# Hi, I’m Annmyname  
+# Hi, I’m Trinh (you can call me Ann)
 
 I’m passionate about Data Analytics, Machine Learning, and Business Intelligence. 
 Currently I'm learning and building projects with Python, Power BI, and SQL. 
